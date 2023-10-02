@@ -1,0 +1,42 @@
+Kerigo Ndirangu
+Module 4
+October 2, 2023
+
+Analysis summary
+
+Fifteen high schools schools were analyzed with a total of 39,170 students.  Math, reading and combined math 
+and reading scores were analyzed based on average spent per student, grade, size of the school attended, 
+and type of school (district versus charter) in order to derive insights on the what characteristics 
+correlate with highest and lowest performance in these subject areas.  Performance was defined as scoring >70 
+in the subject of interest or both subjects in the case of overall passing score.  
+
+
+Conclusions or comparisons from the calculations
+
+Seven district and eight charter schools were included in this analysis.  School size varied from
+427 (Charter - Holden) to 4976 (District - Bailey). Budget ranged from $248,087 (Charter - Holden) to $3,124,928 (District -
+Bailey). The top 5 performing schools were Charters with <2,500 students each. The 5 worst performing schools were districts
+with ~3000+ students each. When examining performance by grade for each school, percent passing reading, math and overall 
+were stable 9th through 12th grade.  Thus overall school passing rates were used in the remainder of the analysis since 
+there was no indication of a differnce in performance across grade level.
+
+School budget allocated per student was divided into the following categories:<$585, $585-630, $630-645, $645-680. 
+Overall passing average was 90% for <$585, 81% for $585-630, 63% for $630-645 and 54% for $645-680 spent per student.
+Of note, 4 out 8 Charters had the lowest spends while achieving high passing rates.  While the data indicates 
+a trend that lower spending leads to higher performance (and conversely that higher spends per student do not 
+lead to higher performance), more information is needed on how school budget is allocated (salaries, overhead etc.)
+within each school.
+
+Schools considered small (<1000 students) and medium (1000-2000) had similar overall passing rates 89.8%
+and 90.6% respectively. Large schools (2000-5000) had considerably worse outcomes at 58.2% overall passing rate.
+Within large schools, proportion passing math was 69.9%. Students passing reading was higher at 82.7%, 
+indicating that math is the area driving down performanace in larger schools.
+
+Lastly, students passing both math and reading was 90% in charter schools and 53% in distric schools. Consistent
+with the school size results, math was the subject leading to overall lower passing rate.  In district schools,
+66% of students passed math, compared to 93% in charter schools. Differnce in reading passing rates across school 
+types was less striking, 96% and 80% in charter and district schools respectively.      
+
+
+
+
